@@ -1,4 +1,3 @@
-![Google Maps Scraper Feautred Image](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/google-maps-scraper-feautred-image.png)
 
 <div align="center" style="margin-top: 0;">
   <h1>✨ Google Maps Scraper 🤖</h1>
